@@ -21,10 +21,6 @@ Ele avalia variáveis críticas como: temperatura interna, comunicação com a b
 ## Missão
 Orion Test Alpha
 
-## Equipe
-Equipe Apollo  
-Projeto desenvolvido individualmente
-
 ---
 
 ## Objetivo
