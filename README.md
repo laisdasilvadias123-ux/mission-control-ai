@@ -2,11 +2,14 @@
 
 ---
 
-## Integrantes:
+## Equipe
+Equipe apollo
+
+## Integrantes
 Lais da Silva Dias RM: 569943
 João Augusto Poloniato Telles RM: 571443
 
-## Turma: 
+## Turma
 1CCA
 
 ---
