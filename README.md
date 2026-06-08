@@ -1,5 +1,16 @@
 # Mission Control AI - Global Solution
 
+---
+
+## Integrantes:
+Lais da Silva Dias RM:569943
+João Augusto Poloniato Telles RM: 571443
+
+## Turma: 
+1CCA
+
+---
+
 ## Descrição do Projeto
 O Mission Control AI é um sistema de simulação de monitoramento de uma missão espacial experimental desenvolvido em Python. O sistema analisa dados de diferentes ciclos da missão, identifica riscos operacionais e gera relatórios automáticos para apoio à tomada de decisão.
 
