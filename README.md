@@ -3,7 +3,7 @@
 ---
 
 ## Integrantes:
-Lais da Silva Dias RM:569943
+Lais da Silva Dias RM: 569943
 João Augusto Poloniato Telles RM: 571443
 
 ## Turma: 
